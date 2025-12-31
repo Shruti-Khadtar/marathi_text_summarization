@@ -1,0 +1,8 @@
+streamlit==1.30.0
+torch==2.1.0
+transformers==4.40.0
+googletrans==4.0.0-rc1
+
+# transformer_app.py → for T5 translation & summarization
+# pegasus_app.py → for Pegasus summarization
+# bart_app.py → for Bart summarization
